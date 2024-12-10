@@ -10,7 +10,8 @@ The project involves migrating data from an Azure SQL database to Azure Data Lak
 ---
 
 ## **Architecture**
-"D:\PICTURES\Screenshots\Architecture.png"
+![Architecture](https://github.com/user-attachments/assets/82961edf-01c2-4953-b418-c96365fd5f92)
+
 ### **Source: Azure SQL Database**
 - Contains **10 tables** as the initial data source.
 
