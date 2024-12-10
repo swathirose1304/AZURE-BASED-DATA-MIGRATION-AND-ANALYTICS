@@ -59,6 +59,7 @@ The project involves migrating data from an Azure SQL database to Azure Data Lak
 - Performed transformations:
   - **Bronze to Silver**: Typecasting and data cleaning.
   - **Silver to Gold**: Column renaming
+![Screenshot 2024-12-10 163339](https://github.com/user-attachments/assets/bfb54d95-a2cc-450e-b874-c4cb8adebe5a)
 
 ### **4. Data Loading**
 - Loaded transformed Gold layer data into Azure Synapse Analytics for centralized storage and querying.
